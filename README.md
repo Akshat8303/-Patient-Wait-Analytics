@@ -44,5 +44,4 @@ Displays the number of inpatients, day cases, and outpatients for a particular d
 
 Thank you for exploring this project! If you have any questions, suggestions, or feedback, feel free to reach out.
 
-## Happy querying!
-
+## 🔍💡 Happy querying!
